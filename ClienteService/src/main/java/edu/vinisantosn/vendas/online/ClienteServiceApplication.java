@@ -1,4 +1,4 @@
-package edu.vinisantosn.vendas.online.ClienteService;
+package edu.vinisantosn.vendas.online;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;
